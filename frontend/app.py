@@ -32,7 +32,7 @@ cache = Cache(app.server, config={
     'CACHE_DIR': 'cache-directory'
 })
 
-app.title = 'Rosetta'
+app.title = 'GUI'
 app.logger.info('testing log')
 app.layout = layout
 
